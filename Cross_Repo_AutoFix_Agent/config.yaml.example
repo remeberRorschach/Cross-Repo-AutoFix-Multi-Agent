@@ -1,0 +1,8 @@
+llm:
+  api_key: "your_api_key_here"
+  model: "gpt-4-turbo"
+  max_tokens: 4096
+  temperature: 0.2
+git:
+  token: "your_github_token"
+  org_name: "your_org"
